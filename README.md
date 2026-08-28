@@ -31,5 +31,5 @@ Si se dividen dos variables enteras (`int`), Java realiza una "división entera"
 Trabajar en la rama `parte-c` me dio la seguridad de poder experimentar con los arreglos y la nueva lógica de `Flota.java` sin riesgo de romper el código estable de `Viaje.java` que ya tenía listo en `main`. Me permitió hacer commits intermedios de prueba sabiendo que mi entrega principal seguía intacta hasta que decidí hacer el merge.
 
 **3. Mirá el historial de tu repositorio con git log. Elegí uno de tus mensajes de commit que hoy escribirías distinto, transcribilo, y escribí la versión mejorada explicando qué le faltaba al original.**
-*   **Mensaje original:** "agrego flota y un par de cosas"
-*   **Mensaje mejorado:** "Agrega programa Flota.java con registro en arreglos y cálculo de consumos"
+*   **Considero que estaban bien
+*   

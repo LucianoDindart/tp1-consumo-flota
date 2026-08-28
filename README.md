@@ -1,6 +1,8 @@
 # Trabajo Práctico 1 - Entorno, Git y fundamentos de Java
 
-**Alumno/a:** Luciano DIndart
+
+**Alumno:** Luciano Dindart
+
 **Materia:** Programación II 
 
 ## Programas incluidos
@@ -31,4 +33,3 @@ Trabajar en la rama `parte-c` me dio la seguridad de poder experimentar con los 
 **3. Mirá el historial de tu repositorio con git log. Elegí uno de tus mensajes de commit que hoy escribirías distinto, transcribilo, y escribí la versión mejorada explicando qué le faltaba al original.**
 *   **Mensaje original:** "agrego flota y un par de cosas"
 *   **Mensaje mejorado:** "Agrega programa Flota.java con registro en arreglos y cálculo de consumos"
-*   **Explicación:** El mensaje original no detallaba qué cambios se introducían y usaba lenguaje informal. La versión mejorada describe de forma precisa la funcionalidad y el archivo que se añadieron en ese punto de la historia, tal como vimos en clase.
